@@ -1,0 +1,7 @@
+{
+  "include": ["."],
+  "extraPaths": [".", "src"],
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "basic"
+}
